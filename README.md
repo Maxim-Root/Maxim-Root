@@ -14,7 +14,6 @@ I work at the intersection of Android's lowest layers — device trees, bootload
 
 - 🔧 Official **TWRP** maintainer for the full **Samsung Galaxy S25** series (S25 · S25+ · S25 Ultra · S25 Edge)
 - 📱 Custom recovery ports for Samsung Galaxy S23 FE, Tab A8, Tab A9+
-- ⚙️ Author of **fastbootpatcher** — automates fastbootd enablement on dynamic Samsung devices
 - 🖥️ Author of **Geo Checker** — Qt6 desktop tool for inspecting `geosite.dat` / `geoip.dat` proxy routing files
 - 🤖 CI/CD pipelines for automated recovery and kernel builds via GitHub Actions
 - 🌍 Based in UTC +3
