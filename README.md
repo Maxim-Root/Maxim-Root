@@ -38,16 +38,6 @@ I work at the intersection of Android's lowest layers — device trees, bootload
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maxim-Root&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### 🛠️ Tech stack
 
 <div align="center">
