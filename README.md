@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Maxim%20Trusov&fontSize=50&fontColor=fff&fontAlignY=45&desc=Android%20Recovery%20Developer%20%E2%80%A2%20Systems%20Programmer&descSize=20&descAlignY=65&descColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1b2a,100:1b4332&height=180&section=header&text=Maxim%20Trusov&fontSize=50&fontColor=FFFFFF&fontAlignY=50&desc=Android%20Recovery%20Developer%20%E2%80%A2%20Systems%20Programmer&descSize=19&descAlignY=70&descColor=a8d5b5"/>
 
 <div align="center">
 
@@ -122,4 +122,4 @@ I work at the intersection of Android's lowest layers — device trees, bootload
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Maxim-Root.Maxim-Root"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1b4332,100:0d1b2a&height=80&section=footer"/>
