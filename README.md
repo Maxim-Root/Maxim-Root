@@ -29,7 +29,7 @@ I work at the intersection of Android's lowest layers — device trees, bootload
 
 #### 🏆 Official TWRP — Samsung Galaxy S25 Series
 > First and official TWRP port for the entire Galaxy S25 lineup running Snapdragon 8 Elite / Android 15.
-> Covers four variants: **S25 (pa1q)**, **S25+ (pa1q)**, **S25 Ultra (x1q)**, **S25 Edge (b0q)**.
+> Covers four variants: **S25 (pa1q)**, **S25+ (pa2q)**, **S25 Ultra (pa3q)**, **S25 Edge (psq)**.
 > Released July 2025 — featured on XDA.
 
 [![XDA Thread](https://img.shields.io/badge/XDA-Official_Thread-F59B1E?style=flat&logo=xda-developers)](https://xdaforums.com/t/recovery-official-twrp-samsung-s25-series.4750592/)
