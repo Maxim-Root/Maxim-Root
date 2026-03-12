@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Maxim%20Trusov&fontSize=46&fontColor=FFFFFF&fontAlignY=50&desc=Android%20Recovery%20Developer%20%C2%B7%20Systems%20Programmer&descSize=18&descAlignY=70&descColor=C8D6E8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Maxim%20Trusov&fontSize=50&fontColor=fff&fontAlignY=45&desc=Android%20Recovery%20Developer%20%E2%80%A2%20Systems%20Programmer&descSize=20&descAlignY=65&descColor=fff"/>
 
 <div align="center">
 
